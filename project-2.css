@@ -419,7 +419,7 @@ body{
     background:
     linear-gradient(rgba(0,0,0,0.1),
     rgba(0,0,0,0.4)),
-    url("../images/husien-bisky-MyzZWb87HuM-unsplash.jpg");
+    url("images/husien-bisky-MyzZWb87HuM-unsplash.jpg");
 width: 100%;
     height: calc(100vh - 160px);
     background-size: cover;
